@@ -1,0 +1,3 @@
+[submodule "hashID"]
+	path = hashID
+	url = https://github.com/psypanda/hashID.git

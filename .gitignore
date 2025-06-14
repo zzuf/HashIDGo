@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of build tools
+/dist/
+/build/
+
+# Go modules
+/go.sum
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git submodules
+hashID/
